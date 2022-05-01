@@ -1,5 +1,4 @@
-package br.com.entr
-a21.operadoreslogicos;
+package br.com.entra21.operadoreslogicos;
 
 public class Main {
 

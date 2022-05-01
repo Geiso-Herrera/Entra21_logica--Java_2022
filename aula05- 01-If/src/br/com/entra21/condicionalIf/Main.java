@@ -14,7 +14,7 @@ public class Main {
 		System.out.println("aqui vai acontecer naturalmente pq o codigo segue sempre em frente");
 
 		if (false) {
-			// nunca passaria aqui pois apenas resulta em true parra por esse bloco
+			// nunca passaria aqui pois apenas resulta em true para por esse bloco
 		}
 
 		byte idade = 19;
