@@ -15,8 +15,8 @@ public class Jogo {
 	
 		
 		
-		if(op.equals("w")) {
-			System.out.println("parede! voce bateu a cabeça e morreu!");
+		if(op.equals("1")) {
+			System.out.println("Verde!");
 		}else if(op.equals("d")) {
 			System.out.println("Lobos selvagens! Voce foi devorado");
 		}else if(op.equals("s")) {
